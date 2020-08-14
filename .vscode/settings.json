@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/Users/brettarnold/.local/share/virtualenvs/django_tutorial-sw9mu4Mv/bin/python",
+  "python.linting.pylintArgs": ["--load-plugins=pylint_django"]
+}
